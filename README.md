@@ -1,2 +1,3 @@
 # SampleGitHub002
-GitHubのサンプルリポジトリ
+## GitHubのサンプルリポジトリ
+### sample
